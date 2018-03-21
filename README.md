@@ -1,6 +1,6 @@
 # Upstate Data Summit
 
-This repository holds information about, and a website for, the 2018 Upstate Data Summit, to be held in Syracuse, NY on [Friday April 13th](https://github.com/UpstateData/data-summit/issues/1).
+This repository holds information about, and a website for, the 2018 Upstate Data Summit, to be held in Syracuse, NY - on the campus of Syracuse University - in [mid June](https://github.com/UpstateData/data-summit/issues/1).
 
 ## Event Overview
 
