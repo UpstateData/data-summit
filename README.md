@@ -1,6 +1,6 @@
 # Upstate Data Summit
 
-This repository holds information about, and a website for, the 2018 Upstate Data Summit, to be held in Syracuse, NY on [Friday April 13th](https://github.com/UpstateData/data-summit/issues/1).
+This repository holds information about, and a website for, the 2018 Upstate Data Summit, to be held in Syracuse, NY - on the campus of Syracuse University - in [mid June](https://github.com/UpstateData/data-summit/issues/1).
 
 ## Event Overview
 
@@ -8,7 +8,7 @@ Publishing open data, and using data to drive operational and policy decisions h
 
 The Upstate Data Summit will bring together municipal government officials from across Upstate New York to showcase innovative uses of data and open data publishing. It will provide an opportunity for attendees to learn more about how other Upstate governments are using data, and how governments new to open data and data-driven decision making can get started with data programs of their own.
 
-The program will feature speakers from Upstate governments that have adopted policies and practices around the use of data, and will highlight lessons learned from these leaders and tips on getting started. The event will be held in Syracuse in the Spring / Early Summer of 2018.
+The program will feature speakers from Upstate governments that have adopted policies and practices around the use of data, and will highlight lessons learned from these leaders and tips on getting started. The event will be held in Syracuse in June of 2018.
 
 ## Get Involved
 
